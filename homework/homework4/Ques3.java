@@ -1,6 +1,6 @@
 package homework.homework4;
 
-public class ques3 {
+public class Ques3 {
     //构造加法函数
     public static void add(int arr1[][],int arr2[][],int arr3[][]){
         for (int i = 0; i < arr1.length; i++) {

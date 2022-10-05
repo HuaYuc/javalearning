@@ -1,6 +1,6 @@
 package homework.homework4;
 
-public class ques2 {
+public class Ques2 {
     public static void main(String[] args) {
         //n为三角形行数
         int n=10;

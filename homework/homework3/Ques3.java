@@ -2,7 +2,7 @@ package homework.homework3;
 
 import java.util.Scanner;
 
-public class ques3 {
+public class Ques3 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("请输入月份");

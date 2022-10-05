@@ -2,7 +2,7 @@ package homework.homework5;
 
 import java.util.Scanner;
 
-public class ques2 {
+public class Ques2 {
     public static void main(String[] args) {
         //输入字符ch
         Scanner sc=new Scanner(System.in);

@@ -2,7 +2,7 @@ package homework.homework5;
 
 import java.util.Scanner;
 
-public class ques1 {
+public class Ques1 {
     public static void main(String[] args) {
         System.out.println("请输入一段字符串");
         Scanner sc=new Scanner(System.in);

@@ -1,9 +1,8 @@
 package homework.homework3;
 
-import javax.annotation.processing.SupportedAnnotationTypes;
 import java.util.Scanner;
 
-public class ques4 {
+public class Ques4 {
     public static void main(String[] args) {
         Scanner SC = new Scanner(System.in);
         System.out.println("输入月份");

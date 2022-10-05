@@ -1,6 +1,6 @@
 package homework.homework3;
 
-public class ques6 {public static void main(String[] args) {
+public class Ques6 {public static void main(String[] args) {
     int sum=0;
     int num=0;
     for (int i = 0; i < 100; i++) {

@@ -3,7 +3,7 @@ package homework.homework4;
 import java.util.Random;
 import java.util.Scanner;
 
-public class ques1 {
+public class Ques1 {
     //杨辉三角中赋值1
     public static void main(String[] args) {
         Random rand=new Random();
