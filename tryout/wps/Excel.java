@@ -9,7 +9,7 @@ import java.io.File;
 public class Excel {
     public static void main(String[] args) throws  Exception {
         //获取工作薄
-        File file = new File("D:\\新建文件夹\\text.xls");
+        File file = new File("D:\\Desktop\\text.xls");
         Workbook wb = Workbook.getWorkbook(file);
         //获取sheet
         Sheet sheet = wb.getSheet("Sheet1");
